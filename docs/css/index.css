@@ -380,7 +380,7 @@ p{
     grid-template-areas: 
     "a b"
     "c d"
-    "e e"
+    "e f"
     ;
     margin: auto;
     width: 100%;
@@ -445,3 +445,4 @@ p{
     width: 100%;
 }
 }
+
