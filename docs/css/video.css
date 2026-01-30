@@ -98,7 +98,7 @@
   justify-content: center;
   padding:var(--grid-spacing) var(--mobile-spacing) ;
   box-sizing: border-box;
-  column-gap: var(--grid-spacing);
+  gap: var(--spacing-md);
   flex-direction: column;
   max-width: 550px;
 }
@@ -125,7 +125,7 @@
   justify-content: center;
   padding:var(--mobile-spacing) var(--mobile-spacing) ;
   box-sizing: border-box;
-  column-gap: var(--mobile-spacing);
+  gap: var(--mobile-md-spacing);
   flex-direction: column;
 }
 .video-box{
